@@ -24,7 +24,7 @@ https://docs.acquired.com/api.php
 
 ## Installation ##
 
-#NuGet#
+### NuGet ###
 download api library from nuget.org
 https://www.nuget.org/packages/acquired.com
 or install it from package manager PM> Install-Package acquired.com -Version 1.0.1
