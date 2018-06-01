@@ -6,11 +6,8 @@ The Acquired API Library for Java enables you to work with Acquired APIs.
 ## Environment ##
 ASP.net core 2.0  
 MVC  
-C#
-Newtonsoft.Json;
-
-The SDK core is in "Lib" file writen by c#.  
-So if you use the old .NET Framwork you can just focus the "Lib" files;
+C#   
+Newtonsoft.Json
 
 
 ## Directory ##
